@@ -2,18 +2,28 @@
   "title": "Home",
   "content": "intro.md",
   "gallery": [{
-    "title": "React Context",
-    "copy": "For global styles.",
-    "image": "../images/gallery/react-context.jpg"
+    "title": "Ticketer",
+    "copy": "Bus Ticketing Business Portal.",
+    "image": "../images/gallery/ticketer.png"
   },
   {
-    "title": "Page Transitions",
-    "copy": "Component-based for easy usage.",
-    "image": "../images/gallery/page-transitions.jpg"
+    "title": "Thomson Reuters",
+    "copy": "Regulatory Reporting Data Analysis on the Eikon platform.",
+    "image": "../images/gallery/thomsonreuters.jpg"
   },
   {
-    "title": "Intersection Observer",
-    "copy": "Including a polyfill for Safari.",
-    "image": "../images/gallery/intersection-observer.jpg"
+    "title": "Tesco",
+    "copy": "UK Sales Data Import.",
+    "image": "../images/gallery/tesco.png"
+  },
+  {
+    "title": "Barclays",
+    "copy": "Middle Office and Front Office Internal Systems.",
+    "image": "../images/gallery/barclays.png"
+  },
+  {
+    "title": "The Tin",
+    "copy": "Bespoke Website Development.",
+    "image": "../images/gallery/thetin.jpg"
   }]
 }
