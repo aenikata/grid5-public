@@ -1,3 +1,5 @@
+# About Grid 5
+
 Grid 5 is a development consultancy providing scalable, reliable websites to customers for 8 years. Our team are all highly experienced in providing customer and business-facing websites including operational sites supporting critical business processes.
 
 # The Team
