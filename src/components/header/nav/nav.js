@@ -11,6 +11,9 @@ const Nav = () => (
       <li>
         <Link to="/projects">Projects</Link>
       </li>
+      <li>
+        <Link to="/contacts">Contact Us</Link>
+      </li>
       {/* <li>
         <a href="https://github.com/fabe/gatsby-universal">GitHub</a>
       </li> */}
