@@ -1,21 +1,20 @@
-Find the repository [on GitHub](https://github.com/fabe/gatsby-universal).
+Grid 5 is a development consultancy providing scalable, reliable websites to customers for 8 years. Our team are all highly experienced in providing customer and business-facing websites including operational sites supporting critical business processes.
 
-```
-# Installation
-gatsby new my-site https://github.com/fabe/gatsby-universal
+# The Team
 
-# To develop
-yarn develop
+## David Burton - Owner and Polyglot Programmer
 
-# To build
-yarn build
+Self-confessed geek with over 20 years experience, if you want someone who knows a little of everything then speak to David. Whether it's web, mobile or desktop development, building an operational site or doing big data analysis it's covered.
 
-# To test SSR (for Lighthouse etc.)
-yarn ssr
+## James Burton - .NET and JavaScript Consultant
 
-# To format JS (precommit)
-yarn format
+Also a self-confessed geek with over 20 years experience, work has been on a slightly narrower range of technologies bringing even greater depth to other work.
 
-# To generate favicons (included in `build`)
-yarn build:favicons
-```
+
+## Mathieu Grasset - QA / Testing
+
+Many agencies produce work that 'kind of' works. We aim to produce work that you can rely on for your business. Our background is in sites that are Business Critical. Mathieu has the eye for detail to make sure things can go out working first time.
+
+## Others
+
+We have a number of other non-permanent team members who we work with as required. With a wide range of contacts within IT we can quickly build a larger team as required to handle larger projects or concurrent projects.

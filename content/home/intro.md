@@ -1,1 +1,1 @@
-An opinionated starter for using Gatsby v2 with React Context, tag-agnostic styled-components, page transitions and scroll events with IntersectionObserver.
+Grid 5 can help businesses to create internal, B2B and customer-facing websites which provide rich functionality with scalable, reliable code. Our work has helped provide portals to users and businesses letting them make fully informed operational decisions in real time. We call this 'Reliability as a Feature'.
