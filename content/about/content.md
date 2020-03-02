@@ -2,8 +2,6 @@
 
 Grid 5 is a development consultancy providing scalable, reliable websites to customers for 8 years. Our team are all highly experienced in providing customer and business-facing websites including operational sites supporting critical business processes.
 
-# The Team
-
 ## David Burton - Owner and Polyglot Programmer
 
 Self-confessed geek with over 20 years experience, if you want someone who knows a little of everything then speak to David. Whether it's web, mobile or desktop development, building an operational site or doing big data analysis it's covered.
