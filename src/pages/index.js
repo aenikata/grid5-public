@@ -11,12 +11,12 @@ import { graphql } from 'gatsby';
 const Index = ({ data }) => (
   <Layout>
     <Box>
-      <Title as="h2" size="medium">
+      <Title as="h2" size="large">
         {data.homeJson.content.childMarkdownRemark.rawMarkdownBody}
       </Title>
     </Box>
     <Box>
-      <Title as="h2" size="Large">Past Projects</Title>
+      <Title as="h2" size="large">Past Projects</Title>
       <Gallery items={data.homeJson.gallery} />
     </Box>
   </Layout>
